@@ -23,5 +23,7 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 ## Program
 
 
-## Output
+## Output :
+
+## Result : 
 
